@@ -8,7 +8,6 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 
 footer {
@@ -25,12 +24,14 @@ em {
 }
 
 /* toggled from JS */
+
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
 }
 
 /* for each drum button */
+
 .drum {
   outline: none;
   border: 10px solid #404B69;
@@ -50,6 +51,7 @@ em {
 }
 
 /* background img for drums */
+
 .w {
   background-image: url("images/tom1.png");
 }
@@ -77,4 +79,3 @@ em {
 .l {
   background-image: url("images/kick.png");
 }
-
